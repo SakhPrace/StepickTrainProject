@@ -1,4 +1,4 @@
-package four;
+package Prog35;
 
 abstract class KeywordAnalyzer implements TextAnalyzer{
 

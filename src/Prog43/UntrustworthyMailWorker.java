@@ -1,4 +1,4 @@
-package LoggingProgTrain;
+package Prog43;
 
 public class UntrustworthyMailWorker implements MailService {
 

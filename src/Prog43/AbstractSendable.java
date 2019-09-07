@@ -1,4 +1,4 @@
-package LoggingProgTrain;
+package Prog43;
 
 public class AbstractSendable implements Sendable {
     protected final String from;

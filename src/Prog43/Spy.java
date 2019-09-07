@@ -1,4 +1,4 @@
-package LoggingProgTrain;
+package Prog43;
 
 import java.util.logging.*;
 
